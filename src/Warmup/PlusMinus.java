@@ -1,6 +1,5 @@
 package Warmup;
 
-
 /*
     Problem: Plus Minus
 
@@ -20,7 +19,6 @@ import java.util.Scanner;
 public class PlusMinus {
     static Scanner console = new Scanner(System.in);
 
-
     public static void main(String[] args) {
         final int N;
         int array[];
@@ -32,7 +30,6 @@ public class PlusMinus {
         for(int i=0;i<N;i++){
             array[i] = console.nextInt();
         }
-
         plusMinus(array);
     }
 
