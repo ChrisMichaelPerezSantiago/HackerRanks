@@ -28,7 +28,7 @@
 */
 
 
-package hackerranks;
+package Warmup;
 import java.util.Scanner;
 
 public class Straircase {

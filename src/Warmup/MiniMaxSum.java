@@ -20,7 +20,7 @@
   @Author Chris M. Perez
   @Date   4/2/2017
 */
-package hackerranks;
+package Warmup;
 
 import java.util.Arrays;
 import java.util.Scanner;

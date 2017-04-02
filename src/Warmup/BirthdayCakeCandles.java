@@ -20,7 +20,7 @@ Input Format:
 
 */
 
-package hackerranks;
+package Warmup;
 import java.util.Arrays;
 import java.util.Scanner;
 
