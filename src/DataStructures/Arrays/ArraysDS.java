@@ -21,7 +21,6 @@ import java.util.Scanner;
     @Date   4/2/2017
 */
 
-
 public class ArraysDS {
     static Scanner console = new Scanner(System.in);
     
