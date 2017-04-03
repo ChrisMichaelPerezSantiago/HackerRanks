@@ -18,10 +18,10 @@ public class Day0HelloWorld {
     static Scanner console = new Scanner(System.in);
     
     public static void main(String[] args) {
-        String world;
+        String word;
         
-        world = console.nextLine();
+        word = console.nextLine();
         System.out.println("Hello, World.");
-        System.out.println(world);
+        System.out.println(word);
     }
 }
