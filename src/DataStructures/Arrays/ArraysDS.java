@@ -36,7 +36,7 @@ public class ArraysDS {
             list.add(element);
         }
         reverse(list);
-        list.forEach(i -> System.out.print(i+ " "));
+        list.forEach(i -> System.out.print(i + " "));
     }
     
     public static List<Integer> reverse(List<Integer> list){
