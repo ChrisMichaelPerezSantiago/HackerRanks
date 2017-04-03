@@ -44,6 +44,7 @@ public class MinMax {
             list.add(console.nextInt());
         }
         
+        
         min = Integer.MAX_VALUE;
         Collections.sort(list);
         min = list.get(k-1) - list.get(0);
