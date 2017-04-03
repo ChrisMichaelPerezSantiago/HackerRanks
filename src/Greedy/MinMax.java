@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 
 /*
+    Problem: Min Max
+
     Input Format:
         The first line contains an integer N. 
         The second line contains an integer k. 
