@@ -33,7 +33,6 @@ public class DivisibleSumPairs {
         n = console.nextInt();
         k = console.nextInt();
         
-        
         array = new int[n];
         
         for(int i=0;i<n;i++){
