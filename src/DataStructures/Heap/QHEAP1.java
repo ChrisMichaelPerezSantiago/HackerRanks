@@ -34,7 +34,6 @@ public class QHEAP1 {
         
         queries = console.nextInt();
         qheap1(queue, queries, elementsToAdd, typeOfQuery);
-       
     }
     
     public static void qheap1(Queue<Integer> queue,int queries,int elementsToAdd,int typeOfQuery){
