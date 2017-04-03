@@ -31,7 +31,7 @@ public class ArraysDS {
         int MAX;
         
         MAX = console.nextInt();
-        
+      
         for(int i=0;i<MAX;i++){
             element = console.nextInt();
             list.add(element);
