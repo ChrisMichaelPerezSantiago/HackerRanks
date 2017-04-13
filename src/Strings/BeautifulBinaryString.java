@@ -19,7 +19,6 @@ import java.util.Scanner;
 public class BeautifulBinaryString {
     static Scanner console = new Scanner(System.in);
     
-    
     public static void main(String[] args) {
         String binary;
         String convertToBeautiful;
@@ -29,7 +28,6 @@ public class BeautifulBinaryString {
         N = console.nextInt();
         binary = console.next();
         
-       
         convertToBeautiful = binary.replace("010", "b");
         minimumNumberSteep = convertToBeautiful.replaceAll("[01]","").length();
       
